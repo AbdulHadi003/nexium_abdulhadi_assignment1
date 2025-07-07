@@ -60,10 +60,6 @@ export function InputForm() {
           name="genre"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Quote Genre</FormLabel>
-              <FormControl>
-                <Input placeholder="e.g., motivational" {...field} />
-              </FormControl>
               <FormDescription>
                 Enter a genre to view related quotes.
               </FormDescription>
