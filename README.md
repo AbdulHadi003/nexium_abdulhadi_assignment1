@@ -35,8 +35,8 @@ It also contain the Exit buttton impoted from button component of shadcn that is
 It searches the name of genre and then displays that particular name with transition on screen using the motion component of framer-motion, then fetches the qotes of that particular genre in data/quotes file if quotes are available they are displayed via carousel component of shadcn if not than a sorry message is printed. It also has back button impoted from button component of shadcn used to navigate back to the home page.Styling is applied on the page using tailwand css.
 
 ## Running Images
-![Home](image.png)
-![Quotes](image-1.png)
+![Home](images/home.png)
+![Quotes](images/quotes.jpeg)
 
 ## How To Run
 
